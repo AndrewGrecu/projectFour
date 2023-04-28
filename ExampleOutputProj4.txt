@@ -1,0 +1,77 @@
+Enter the number of random students to generate: 20
+Unsorted students:
+Student{name='Bob Smith', age=45, major='Biology', minor='Mathematics', GPA=0.37899139185781605, year='Junior', credits=5.0}
+Student{name='Heidi Jones', age=7, major='Music', minor='Art', GPA=2.1496977279280856, year='Sophomore', credits=80.0}
+Student{name='Eve Johnson', age=16, major='Mathematics', minor='Music', GPA=2.985868365530797, year='Freshman', credits=112.0}
+Student{name='Judy Wilson', age=54, major='History', minor='Biology', GPA=2.8564400296355936, year='Senior', 
+credits=88.0}
+Student{name='Bob Garcia', age=77, major='Business', minor='History', GPA=1.660183719257709, year='Junior', credits=9.0}
+Student{name='Ivan Davis', age=28, major='Mathematics', minor='Biology', GPA=1.0447196959868115, year='Junior', credits=57.0}
+Student{name='Judy Clark', age=4, major='Computer Science', minor='Computer Science', GPA=0.23519243856192196, year='Sophomore', credits=84.0}
+Student{name='Charlie Garcia', age=67, major='Mathematics', minor='Business', GPA=3.320981298039235, year='Sophomore', credits=38.0}
+Student{name='Alice Clark', age=31, major='Biology', minor='Biology', GPA=2.61725791070294, year='Sophomore', credits=79.0}
+Student{name='Frank Johnson', age=90, major='Psychology', minor='History', GPA=3.325042284860094, year='Sophomore', credits=101.0}
+Student{name='Alice Miller', age=94, major='Music', minor='English', GPA=0.10005663722718516, year='Freshman', credits=26.0}
+Student{name='Bob Miller', age=5, major='Mathematics', minor='History', GPA=3.0704249756790705, year='Junior', credits=64.0}
+Student{name='Heidi Clark', age=19, major='Mathematics', minor='History', GPA=1.726103235914918, year='Sophomore', credits=52.0}
+Student{name='Alice Brown', age=53, major='History', minor='English', GPA=2.0619702765732706, year='Junior', 
+credits=118.0}
+Student{name='Frank Smith', age=37, major='Psychology', minor='Art', GPA=0.5722824369846591, year='Freshman', credits=93.0}
+Student{name='Grace Brown', age=77, major='Music', minor='Art', GPA=2.0114566721276566, year='Senior', credits=45.0}
+Student{name='Grace Wilson', age=70, major='Computer Science', minor='Biology', GPA=2.4394329561766557, year='Freshman', credits=77.0}
+Student{name='Heidi Taylor', age=34, major='Mathematics', minor='Art', GPA=1.4332588957120045, year='Sophomore', credits=75.0}
+Student{name='Judy Wilson', age=100, major='History', minor='Business', GPA=3.116716820731174, year='Freshman', credits=18.0}
+Student{name='Frank Miller', age=58, major='Computer Science', minor='Music', GPA=3.3956493566178674, year='Freshman', credits=64.0}
+
+Sorted students by GPA (selection sort):
+Student{name='Alice Miller', age=94, major='Music', minor='English', GPA=0.10005663722718516, year='Freshman', credits=26.0}
+Student{name='Judy Clark', age=4, major='Computer Science', minor='Computer Science', GPA=0.23519243856192196, year='Sophomore', credits=84.0}
+Student{name='Bob Smith', age=45, major='Biology', minor='Mathematics', GPA=0.37899139185781605, year='Junior', credits=5.0}
+Student{name='Frank Smith', age=37, major='Psychology', minor='Art', GPA=0.5722824369846591, year='Freshman', credits=93.0}
+Student{name='Ivan Davis', age=28, major='Mathematics', minor='Biology', GPA=1.0447196959868115, year='Junior', credits=57.0}
+Student{name='Heidi Taylor', age=34, major='Mathematics', minor='Art', GPA=1.4332588957120045, year='Sophomore', credits=75.0}
+Student{name='Bob Garcia', age=77, major='Business', minor='History', GPA=1.660183719257709, year='Junior', credits=9.0}
+Student{name='Heidi Clark', age=19, major='Mathematics', minor='History', GPA=1.726103235914918, year='Sophomore', credits=52.0}
+Student{name='Grace Brown', age=77, major='Music', minor='Art', GPA=2.0114566721276566, year='Senior', credits=45.0}
+Student{name='Alice Brown', age=53, major='History', minor='English', GPA=2.0619702765732706, year='Junior', 
+credits=118.0}
+Student{name='Heidi Jones', age=7, major='Music', minor='Art', GPA=2.1496977279280856, year='Sophomore', credits=80.0}
+Student{name='Grace Wilson', age=70, major='Computer Science', minor='Biology', GPA=2.4394329561766557, year='Freshman', credits=77.0}
+Student{name='Alice Clark', age=31, major='Biology', minor='Biology', GPA=2.61725791070294, year='Sophomore', credits=79.0}
+Student{name='Judy Wilson', age=54, major='History', minor='Biology', GPA=2.8564400296355936, year='Senior', 
+credits=88.0}
+Student{name='Eve Johnson', age=16, major='Mathematics', minor='Music', GPA=2.985868365530797, year='Freshman', credits=112.0}
+Student{name='Bob Miller', age=5, major='Mathematics', minor='History', GPA=3.0704249756790705, year='Junior', credits=64.0}
+Student{name='Judy Wilson', age=100, major='History', minor='Business', GPA=3.116716820731174, year='Freshman', credits=18.0}
+Student{name='Charlie Garcia', age=67, major='Mathematics', minor='Business', GPA=3.320981298039235, year='Sophomore', credits=38.0}
+Student{name='Frank Johnson', age=90, major='Psychology', minor='History', GPA=3.325042284860094, year='Sophomore', credits=101.0}
+Student{name='Frank Miller', age=58, major='Computer Science', minor='Music', GPA=3.3956493566178674, year='Freshman', credits=64.0}
+
+Sorted students by GPA (merge sort):
+Student{name='Alice Miller', age=94, major='Music', minor='English', GPA=0.10005663722718516, year='Freshman', credits=26.0}
+Student{name='Judy Clark', age=4, major='Computer Science', minor='Computer Science', GPA=0.23519243856192196, year='Sophomore', credits=84.0}
+Student{name='Bob Smith', age=45, major='Biology', minor='Mathematics', GPA=0.37899139185781605, year='Junior', credits=5.0}
+Student{name='Frank Smith', age=37, major='Psychology', minor='Art', GPA=0.5722824369846591, year='Freshman', credits=93.0}
+Student{name='Ivan Davis', age=28, major='Mathematics', minor='Biology', GPA=1.0447196959868115, year='Junior', credits=57.0}
+Student{name='Heidi Taylor', age=34, major='Mathematics', minor='Art', GPA=1.4332588957120045, year='Sophomore', credits=75.0}
+Student{name='Bob Garcia', age=77, major='Business', minor='History', GPA=1.660183719257709, year='Junior', credits=9.0}
+Student{name='Heidi Clark', age=19, major='Mathematics', minor='History', GPA=1.726103235914918, year='Sophomore', credits=52.0}
+Student{name='Grace Brown', age=77, major='Music', minor='Art', GPA=2.0114566721276566, year='Senior', credits=45.0}
+Student{name='Alice Brown', age=53, major='History', minor='English', GPA=2.0619702765732706, year='Junior', 
+credits=118.0}
+Student{name='Heidi Jones', age=7, major='Music', minor='Art', GPA=2.1496977279280856, year='Sophomore', credits=80.0}
+Student{name='Grace Wilson', age=70, major='Computer Science', minor='Biology', GPA=2.4394329561766557, year='Freshman', credits=77.0}
+Student{name='Alice Clark', age=31, major='Biology', minor='Biology', GPA=2.61725791070294, year='Sophomore', credits=79.0}
+Student{name='Judy Wilson', age=54, major='History', minor='Biology', GPA=2.8564400296355936, year='Senior', 
+credits=88.0}
+Student{name='Eve Johnson', age=16, major='Mathematics', minor='Music', GPA=2.985868365530797, year='Freshman', credits=112.0}
+Student{name='Bob Miller', age=5, major='Mathematics', minor='History', GPA=3.0704249756790705, year='Junior', credits=64.0}
+Student{name='Judy Wilson', age=100, major='History', minor='Business', GPA=3.116716820731174, year='Freshman', credits=18.0}
+Student{name='Charlie Garcia', age=67, major='Mathematics', minor='Business', GPA=3.320981298039235, year='Sophomore', credits=38.0}
+Student{name='Frank Johnson', age=90, major='Psychology', minor='History', GPA=3.325042284860094, year='Sophomore', credits=101.0}
+Student{name='Frank Miller', age=58, major='Computer Science', minor='Music', GPA=3.3956493566178674, year='Freshman', credits=64.0}
+Enter the name of the Student to search for: Frank Johnson
+Found Student{name='Frank Johnson', age=90, major='Psychology', minor='History', GPA=3.325042284860094, year='Sophomore', credits=101.0} at index 18 using sequential search.
+Enter the age of the Student to search for: 90
+Found Student{name='Frank Johnson', age=90, major='Psychology', minor='History', GPA=3.325042284860094, year='Sophomore', credits=101.0} at index 18 using binary search.
+PS C:\Users\User\OneDrive\CTIS310Projects\projectFour> 
